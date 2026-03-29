@@ -1,0 +1,13 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# TestNG reports
+test-output/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
